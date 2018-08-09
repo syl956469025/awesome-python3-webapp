@@ -18,3 +18,10 @@ awesome-python3-webapp/  <-- 根目录
 |
 +- LICENSE               <-- 代码LICENSE
 ```
+
+#### 依赖库
+```
+aiohttp
+jinja2
+aiomysql
+```
